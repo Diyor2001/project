@@ -8,28 +8,30 @@
 
 // alert(`Привет, ${user}`);
 
-console.log('arr' + " - object");
-console.log(4 + " - object ");
+// console.log('arr' + " - object");
+// console.log(4 + " - object ");
 
-let incr = 10,
-    decr = 10;
+// let incr = 10,
+//     decr = 10;
  
     
 // incr++;
 // decr--;
 
-console.log(++incr);
-console.log(--decr);
+// console.log(++incr);
+// console.log(--decr);
 
-console.log(5%2);
+// console.log(5%2);
 
-console.log(2*4 == '8');
+// console.log(2*4 == '8');
 
-const isChecked = false,
-      isClose = false;
+// const isChecked = false,
+//       isClose = false;
       
-console.log(isChecked || !isClose);
+// console.log(isChecked || !isClose);
 
 
+
+let numberOfFilms = prompt('Сколько фильмов вы уже посмотрели?');
 
 
